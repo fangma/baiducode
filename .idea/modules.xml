@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Study.iml" filepath="$PROJECT_DIR$/Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysocketclient/mysocketclient.iml" filepath="$PROJECT_DIR$/mysocketclient/mysocketclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicesocket/servicesocket.iml" filepath="$PROJECT_DIR$/servicesocket/servicesocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjson/testjson.iml" filepath="$PROJECT_DIR$/testjson/testjson.iml" />
+    </modules>
+  </component>
+</project>

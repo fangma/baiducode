@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+    <Languages>
+
+
+    <lan id="1">
+        <name>name1</name>
+        <value>value1</value>
+    </lan>
+    <lan id="2">
+        <name>name2</name>
+        <value>value2</value>
+    </lan>
+    <lan id="3">
+        <name>name3</name>
+        <value>value3</value>
+    </lan>
+
+    </Languages>
