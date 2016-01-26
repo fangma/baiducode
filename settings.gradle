@@ -1,1 +1,1 @@
-include ':app', ':testjson', ':servicesocket', ':mysocketclient'
+include ':app', ':testjson', ':servicesocket', ':mysocketclient', ':myprojectlib'
